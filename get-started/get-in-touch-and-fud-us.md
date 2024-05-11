@@ -1,4 +1,8 @@
-# 📲 Get in touch
+---
+description: (or just say hi)
+---
+
+# 📲 Get in touch & FUD us
 
 :wave: **Say hi!**
 

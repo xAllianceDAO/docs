@@ -6,7 +6,7 @@ description: >-
 
 # 💡 Grants
 
-Projects & individuals can apply for grants using a dedicated portal.
+Have an amazing idea? You can apply for grants for it using our dedicated portal.
 
 **Grants are available for:**
 
