@@ -1,4 +1,8 @@
-# 🏋️‍♂️ Our Actions
+---
+description: Ambitious goals need a clear plan. Here's how we execute.
+---
+
+# 🏋️‍♂️ Our Implementation
 
 1. **We Incentivize Community Contributions:**\
    Rewarding ecosystem contributions, including content creation, tool development, event organization, and more.

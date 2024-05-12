@@ -8,7 +8,7 @@ description: >-
 
 Contributors can earn bounties for various tasks using a dedicated portal. Opportunities will be updated frequently, so check back regularly!
 
-**Bounties will given awarded for:**
+**Bounties will be awarded for:**
 
 :writing\_hand: Written content
 

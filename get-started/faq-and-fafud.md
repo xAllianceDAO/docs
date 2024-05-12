@@ -11,10 +11,10 @@ description: Your questions, answered.
 :exclamation: Just do it. Check out [get-involved.md](get-involved.md "mention") for some more pointers.
 
 :question: How do I apply for a grant?\
-:exclamation: Simply apply via the dedicated application portal (the process takes around 10 minutes). Check out [grants.md](../community-fund/grants.md "mention")for more information.
+:exclamation: Simply apply via the dedicated application portal (the process takes around 10 minutes). Check out [grants.md](../alliance-members/community-fund/grants.md "mention")for more information.
 
 :question: Where can I find open ecosystem bounties?\
-:exclamation: You can find bounties on the our bounty portal. You can find [earning-opportunities.md](../community-fund/earning-opportunities.md "mention")opportunities and submit your contributions directly on the site.
+:exclamation: You can find bounties on the our bounty portal. You can find [earning-opportunities.md](../alliance-members/community-fund/earning-opportunities.md "mention")opportunities and submit your contributions directly on the site.
 
 :question: Is xAlliance the Ambassador Program?\
 :exclamation: xAlliance and the Ambassador Program are complimentary initiatives.

@@ -1,17 +1,17 @@
 # ⭐ Membership Perks
 
-⭐ Early access to MultiversX products
+:star: Early access to MultiversX products
 
-⭐ Free & discounted access to MultiversX community tools
+:star: Free & discounted access to MultiversX community tools
 
-⭐ Exclusive Merch
+:star: Exclusive Merch
 
-⭐ Privileged access to grant programs & funding
+:star: Privileged access to grant programs & funding
 
-⭐ Exclusive networking opportunities
+:star: Exclusive networking opportunities
 
-⭐ Project advisory & mentorship
+:star: Project advisory & mentorship
 
-⭐ Grants for local meetups
+:star: Grants for local meetups
 
-⭐ Subsidies & discounts for conferences, meetups, events, and more
+:star: Subsidies & discounts for conferences, meetups, events, and more

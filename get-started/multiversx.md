@@ -13,7 +13,7 @@ MultiversX is a distributed blockchain network for next-gen applications. It's t
 
 ### **Why MultiversX?**
 
-**For builders:**&#x20;
+**For builders:** MultiversX is offers intuitive tools for builders of all skill levels...
 
 **For businesses:**&#x20;
 
