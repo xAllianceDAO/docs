@@ -15,8 +15,8 @@ MultiversX is a distributed blockchain network for next-gen applications. It's t
 
 **For builders:** MultiversX is offers intuitive tools for builders of all skill levels...
 
-**For businesses:**&#x20;
+**For businesses:** MultiversX provides a sophisticated ecosystem of tools catering for enterprises of all sizes, to enable future-proofing and sustainable growth.
 
-**For institutions:**&#x20;
+**For institutions:** MultiversX paves the way for the enablement of fast, efficient, verifiable and auditable frameworks, ensuring scalability with out compromising security and performance.
 
 **For users:** MultiversX is fast, cheap, safe, and offers best-in-class UX & UI as well as a compelling product suite for users. Mass adoption-ready, by design.
