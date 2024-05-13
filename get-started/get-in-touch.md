@@ -1,10 +1,6 @@
----
-description: (or just say hi)
----
+# 📲 Get in touch
 
-# 📲 Get in touch & FUD us
-
-:wave: **Say hi!**
+### :wave: **Say hi!**
 
 :bird: [Twitter](https://twitter.com/xAllianceDAO)
 
