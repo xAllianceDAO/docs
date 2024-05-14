@@ -10,5 +10,5 @@ description: Ambitious goals need a clear plan. Here's how we execute.
     Selecting outstanding individuals to help shape the initiative and serve as role models for
 
     community contributions.
-3. **We Iterate & Experiment:**\
+3. **We Experiment & Iterate:**\
    Refining initiative through relentless experimentation and accelerate development through fast iteration.
