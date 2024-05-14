@@ -2,7 +2,7 @@
 description: Your questions, answered.
 ---
 
-# ❓ FAQ & FAFud
+# ❓ FAQ
 
 :question: I'm new to MultiversX. Where do I start?\
 :exclamation: Check out [multiversx.md](multiversx.md "mention")and take a look at the [MultiversX website](https://multiversx.com/). When you're ready, download the [xPortal wallet](https://xportal.com/).
@@ -17,7 +17,7 @@ description: Your questions, answered.
 :exclamation: You can find bounties on the our bounty portal. You can find [earning-opportunities.md](../community-fund/earning-opportunities.md "mention")opportunities and submit your contributions directly on the site.
 
 :question: Is xAlliance the Ambassador Program?\
-:exclamation: xAlliance and the Ambassador Program are complimentary initiatives.
+:exclamation: xAlliance is the first of several initiatives empowering the community, catalyzing ecosystem growth and development. xAlliance and its members spearhead community initiatives, with grants and bounties for all community contributors. More complementary initiatives will launch soon, including  the ambassador program focused on spreading the message and further bolstering community engagement.
 
 :question: My wallet got drained, what now?\
 :exclamation: Nice try. The xPortal wallet comes with built-in 2FA, so you never have to worry about your funds.

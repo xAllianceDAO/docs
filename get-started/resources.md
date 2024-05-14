@@ -1,5 +1,7 @@
 # 🧰 Resources
 
+[Website](https://www.xalliance.io) (soon)
+
 [Developer Resources](https://multiversx.com/builders-hub)
 
 [MultiversX Website](https://multiversx.com/)
@@ -10,6 +12,4 @@ Discord (soon)
 
 Telegram (soon)
 
-Website (soon)
-
-xGrowth (soon)
+Bounty & Grant Portals (soon)

@@ -20,5 +20,5 @@
   * [👋 Get Involved](get-started/get-involved.md)
   * [⚡ MultiversX](get-started/multiversx.md)
   * [📲 Get in touch](get-started/get-in-touch.md)
-  * [❓ FAQ & FAFud](get-started/faq-and-fafud.md)
+  * [❓ FAQ](get-started/faq.md)
   * [🧰 Resources](get-started/resources.md)
