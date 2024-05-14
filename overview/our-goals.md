@@ -6,7 +6,6 @@ description: We want to...
 
 :cake: **Grow the pie:** Foster & fund innovative initiatives and projects across the MultiversX ecosystem
 
-:muscle: **Empower YOU:** Incentivize projects, participation, and contributions coming from the community.
+:muscle: **Support YOU:** Incentivize projects, participation, and contributions coming from the community.
 
-:handshake: **Make frens:** Build and expand the MultiversX network through local and global events.
-
+:handshake: **Make friends:** Build and expand the MultiversX network through local and global events.
