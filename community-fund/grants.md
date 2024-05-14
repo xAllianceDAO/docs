@@ -10,7 +10,7 @@ Have an amazing idea? You can apply for grants for it using our dedicated portal
 
 **Grants are available for:**
 
-:tools: Outstanding projects via no-equity mini grants
+:tools: Outstanding initiatives & projects
 
 :partying\_face: Events
 
