@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🤝 xAlliance](README.md)
-  * [🗺️ Mission](xalliance/mission.md)
-  * [🔮 Vision](xalliance/vision.md)
-  * [🩵 Core Values](xalliance/core-values.md)
-  * [✅ Milestones](xalliance/milestones.md)
+* [🤝 About](README.md)
+  * [🗺️ Mission](about/mission.md)
+  * [🔮 Vision](about/vision.md)
+  * [🩵 Core Values](about/core-values.md)
+  * [✅ Milestones](about/milestones.md)
 * [🔭 Overview](overview/README.md)
   * [🏁 Our Goals](overview/our-goals.md)
   * [👩‍🚀 Our Objectives](overview/our-objectives.md)

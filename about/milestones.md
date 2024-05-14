@@ -3,7 +3,7 @@
 ### Q2-Q3
 
 * [x] Onboard Genesis Cohort
-* [ ] Launch Initiative
+* [ ] Launch xAlliance
 * [ ] Release Litepaper
 * [ ] Launch website v1
 * [ ] Launch Bounty Portal

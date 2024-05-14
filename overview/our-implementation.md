@@ -11,4 +11,4 @@ description: Ambitious goals need a clear plan. Here's how we execute.
 
     community contributions.
 3. **We Experiment & Iterate:**\
-   Refining initiative through relentless experimentation and accelerate development through fast iteration.
+   Refining initiative through relentless experimentation and accelerating development through fast iteration.
