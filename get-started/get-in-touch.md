@@ -4,6 +4,6 @@
 
 :bird: [Twitter](https://twitter.com/xAllianceDAO)
 
-:telephone\_receiver: Telegram (soon)
+:space\_invader: [Discord](https://discord.xalliance.io)
 
-:space\_invader: Discord (soon)
+:telephone\_receiver: Telegram (soon)
