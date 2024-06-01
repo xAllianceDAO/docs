@@ -6,6 +6,10 @@
 * [x] Launch xAlliance
 * [x] Release Litepaper
 * [x] Launch website v1
+* [x] Spawnable Partnership
+* [x] Project X Partnership
+* [x] PeerMe Partnership
+* [x] Publish Action Framework
 * [ ] Launch Bounty Portal
 * [ ] Launch Grant Portal
 * [ ] Onboard New Members
