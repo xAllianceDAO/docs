@@ -6,7 +6,7 @@ description: >-
 
 # 🤩 Earning Opportunities
 
-Contributors can earn bounties for various tasks using a dedicated portal. Opportunities will be updated frequently, so check back regularly!
+Contributors can earn bounties for various tasks using our [dedicated portal](https://bounties.xalliance.io/). Opportunities will be updated frequently, so check back regularly!
 
 **Bounties will be awarded for:**
 
