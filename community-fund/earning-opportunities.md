@@ -6,7 +6,7 @@ description: >-
 
 # 🤩 Earning Opportunities
 
-The xAlliance Quest Portal provides an opportunity for ecosystem contributors to earn by contributing to the ecosystem. Through our community fund, we provide earning opportunities for contributions ranging from content creation and tool development to event organization and more.
+The xAlliance Quest Portal offers ecosystem contributors the chance to earn rewards through various activities. Through our Community fund, we support contributions ranging from content creation and tool development to event organization and more.
 
 Contributors can earn rewards for completing various tasks using [our dedicated portal](https://peerme.io/xalliance/quests). Opportunities will be updated frequently, so check back regularly!
 
