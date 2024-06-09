@@ -10,7 +10,7 @@
 * [x] Project X Partnership
 * [x] PeerMe Partnership
 * [x] Publish Action Framework
-* [ ] Launch Bounty Portal
+* [x] Launch Bounty Portal
 * [ ] Launch Grant Portal
 * [ ] Onboard New Members
 * [ ] Introduce Contribution XP System (beta)
