@@ -11,6 +11,7 @@
 * [x] PeerMe Partnership
 * [x] Publish Action Framework
 * [x] Launch Bounty Portal
+* [x] First IRL Event (Proof of Talk Paris)
 * [ ] Launch Grant Portal
 * [ ] Onboard New Members
 * [ ] Introduce Contribution XP System (beta)
