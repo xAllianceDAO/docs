@@ -6,7 +6,7 @@ description: >-
 
 # 💡 Grants
 
-Have an amazing idea? You can apply for grants for it using our grant application form (coming soon).
+Have an amazing idea? You can apply for grants for it using our [grant application form](https://www.grants.xalliance.io).
 
 **Grants are available for:**
 
