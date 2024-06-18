@@ -12,7 +12,7 @@
 * [x] Publish Action Framework
 * [x] Launch Bounty Portal
 * [x] First IRL Event (Proof of Talk Paris)
-* [ ] Launch Grant Portal
+* [x] Launch Grant Program
 * [ ] Onboard New Members
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
