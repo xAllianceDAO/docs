@@ -13,6 +13,6 @@
 * [x] Launch Bounty Portal
 * [x] First IRL Event (Proof of Talk Paris)
 * [x] Launch Grant Program
-* [ ] Onboard New Members
+* [x] Onboard New Members
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
