@@ -10,9 +10,10 @@
 * [x] Project X Partnership
 * [x] PeerMe Partnership
 * [x] Publish Action Framework
-* [x] Launch Bounty Portal
+* [x] Launch Quest Portal
 * [x] First IRL Event (Proof of Talk Paris)
-* [x] Launch Grant Program
+* [x] Launch Community Grant Program
 * [x] Onboard New Members
+* [ ] Launch Building Blocks Grants
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
