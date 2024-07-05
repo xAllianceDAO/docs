@@ -12,6 +12,8 @@ Have an amazing idea? You can apply for grants for it using our [grant applicati
 
 :tools: Outstanding initiatives & projects
 
+:fuelpump: [Infrastructure Scaling](https://medium.com/@xAlliance/introducing-the-building-blocks-grant-program-757b892a8579)
+
 :partying\_face: Events
 
 :beers: Community meetups
