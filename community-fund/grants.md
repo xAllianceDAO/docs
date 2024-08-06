@@ -6,7 +6,9 @@ description: >-
 
 # 💡 Grants
 
-Have an amazing idea? You can apply for grants of up to $2,000 using our [grant application form](https://www.grants.xalliance.io).
+Have an amazing idea? Let us help you realize it!
+
+You can apply for grants of up to $2,000 using our [grant application form](https://www.grants.xalliance.io). For more information, please [read our article on the xAlliance Grant Program](https://medium.com/@xAlliance/introducing-the-xalliance-grant-program-a978a1a449ea).
 
 **Grants are available for:**
 
