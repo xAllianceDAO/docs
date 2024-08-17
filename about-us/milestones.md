@@ -11,10 +11,16 @@
 * [x] [PeerMe ](https://medium.com/@xAlliance/xalliance-partners-with-peerme-ae36ff2b7513)Partnership
 * [x] Publish [Action Framework](https://medium.com/@xAlliance/a-framework-for-action-58a96df36210)
 * [x] Launch [Quest Portal](https://medium.com/@xAlliance/learning-and-earning-on-multiversx-425bde9cf03e)
-* [x] First IRL Event: [Social Proof Happy Hour](https://medium.com/@xAlliance/proof-of-talk-the-intern-reports-from-paris-961e2a4bf26e) at Proof of Talk Paris
+* [x] 1stt IRL Event: [Social Proof Happy Hour](https://medium.com/@xAlliance/proof-of-talk-the-intern-reports-from-paris-961e2a4bf26e) at Proof of Talk Paris
 * [x] Launch [Community Grant](https://medium.com/@xAlliance/introducing-the-xalliance-grant-program-a978a1a449ea) Program
 * [x] Onboard [New Members](https://x.com/xAllianceDAO/status/1804122333507899613)
 * [x] Launch [Building Blocks](https://medium.com/@xAlliance/introducing-the-building-blocks-grant-program-757b892a8579) Grants
-* [x] First Community Grant Recipient: [Tagrity](https://x.com/Tagrity)
+* [x] [1st Community Grant](https://medium.com/@xAlliance/introducing-tagrity-5fdc5e205606): [Tagrity](https://x.com/Tagrity)
+* [x] xAlliance at [EthCC](https://x.com/xAllianceDAO/status/1811391525605065107)
+* [x] [Connect³](https://medium.com/@xAlliance/crossing-chains-connecting-communities-5ff830693b87) Event in Berlin
+* [x] Launch [Covfefe Fund](https://x.com/xAllianceDAO/status/1814194088381415766)
+* [x] Event Series: [xAlliance Homecoming Tour](https://medium.com/@xAlliance/xalliance-homecoming-tour-a6c4ed4bf99b)
+* [x] [2nd Community Grant](https://medium.com/@xAlliance/a-brand-new-way-of-building-275037b5d1bb): Helios Collabathon
+* [x] [MultiversX Blockchain Bazaar](https://x.com/xAllianceDAO/status/1823956214511759728) in Istanbul
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
