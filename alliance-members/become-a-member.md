@@ -6,6 +6,6 @@ Become an Ambassador for MultiversX, contribute to the ecosystem, win bounties, 
 
 _Membership invitations will be extended to:_
 
-1. Hackathon prize winners
+1. Hackathon winners
 2. Ecosystem grant & bounty recipients (1st prize winners)
 3. Individuals with remarkable achievements benefitting the ecosystem
