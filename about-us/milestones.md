@@ -22,5 +22,8 @@
 * [x] Event Series: [xAlliance Homecoming Tour](https://medium.com/@xAlliance/xalliance-homecoming-tour-a6c4ed4bf99b)
 * [x] [2nd Community Grant](https://medium.com/@xAlliance/a-brand-new-way-of-building-275037b5d1bb): Helios Collabathon
 * [x] [MultiversX Blockchain Bazaar](https://x.com/xAllianceDAO/status/1823956214511759728) in Istanbul
+* [x] [Building Blocks for Business](https://x.com/xAllianceDAO/status/1831731605682999345) in Barcelona
+* [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
+* [ ] Launch Community Calendar
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
