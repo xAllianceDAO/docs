@@ -25,5 +25,7 @@
 * [x] [Building Blocks for Business](https://x.com/xAllianceDAO/status/1831731605682999345) in Barcelona
 * [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
 * [ ] Launch Community Calendar
+* [ ] Launch xAlliance Creator Fund
+* [ ] Launch MultiversX De-Center
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
