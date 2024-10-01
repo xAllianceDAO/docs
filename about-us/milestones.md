@@ -23,6 +23,7 @@
 * [x] [2nd Community Grant](https://medium.com/@xAlliance/a-brand-new-way-of-building-275037b5d1bb): Helios Collabathon
 * [x] [MultiversX Blockchain Bazaar](https://x.com/xAllianceDAO/status/1823956214511759728) in Istanbul
 * [x] [Building Blocks for Business](https://x.com/xAllianceDAO/status/1831731605682999345) in Barcelona
+* [x] [3rd Community Grant](https://medium.com/@xAlliance/amplifying-multiversx-09d0a94990e4): GM Web3 MultiversX
 * [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
 * [ ] Launch Community Calendar
 * [ ] Launch xAlliance Creator Fund
