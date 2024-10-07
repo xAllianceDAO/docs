@@ -25,8 +25,8 @@
 * [x] [Building Blocks for Business](https://x.com/xAllianceDAO/status/1831731605682999345) in Barcelona
 * [x] [3rd Community Grant](https://medium.com/@xAlliance/amplifying-multiversx-09d0a94990e4): GM Web3 MultiversX
 * [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
-* [ ] Launch Community Calendar
-* [ ] Launch xAlliance Creator Fund
-* [ ] Launch MultiversX De(v)Center
+* [x] Launch [Community Calendar](https://x.com/xAllianceDAO/status/1843231721208291820)
+* [ ] Launch xCreator Fund
+* [ ] Launch MultiversX DeCenter
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
