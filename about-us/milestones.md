@@ -5,7 +5,7 @@
 * [x] Onboard Genesis Cohort
 * [x] Launch [xAlliance](https://medium.com/@xAlliance/introducing-xalliance-2f8cafad3e02)
 * [x] Release Litepaper
-* [x] Launch [website v1](https://www.xalliance.io)
+* [x] Launch website v0.5
 * [x] [Spawnable ](https://medium.com/@xAlliance/xalliance-partners-with-spawnable-4ae953d01106)Partnership
 * [x] [Project X](https://medium.com/@xAlliance/xalliance-partners-with-project-x-eafe6911ab71) Partnership
 * [x] [PeerMe ](https://medium.com/@xAlliance/xalliance-partners-with-peerme-ae36ff2b7513)Partnership
@@ -20,13 +20,19 @@
 * [x] [Connect³](https://medium.com/@xAlliance/crossing-chains-connecting-communities-5ff830693b87) Event in Berlin
 * [x] Launch [Covfefe Fund](https://x.com/xAllianceDAO/status/1814194088381415766)
 * [x] Event Series: [xAlliance Homecoming Tour](https://medium.com/@xAlliance/xalliance-homecoming-tour-a6c4ed4bf99b)
-* [x] [2nd Community Grant](https://medium.com/@xAlliance/a-brand-new-way-of-building-275037b5d1bb): Helios Collabathon
+* [x] 2nd Community Grant: [Helios Collabathon](https://medium.com/@xAlliance/a-brand-new-way-of-building-275037b5d1bb)
 * [x] [MultiversX Blockchain Bazaar](https://x.com/xAllianceDAO/status/1823956214511759728) in Istanbul
 * [x] [Building Blocks for Business](https://x.com/xAllianceDAO/status/1831731605682999345) in Barcelona
-* [x] [3rd Community Grant](https://medium.com/@xAlliance/amplifying-multiversx-09d0a94990e4): GM Web3 MultiversX
+* [x] 3rd Community Grant: [GM Web3 MultiversX](https://medium.com/@xAlliance/amplifying-multiversx-09d0a94990e4)
 * [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
 * [x] Launch [Community Calendar](https://x.com/xAllianceDAO/status/1843231721208291820)
-* [ ] Launch xCreator Fund
-* [ ] Launch MultiversX DeCenter
+* [x] Launch [xAlliance Creator Fund](https://medium.com/@xAlliance/introducing-the-xalliance-creator-fund-ed3f6fe0ab24)
+* [x] Launch [MultiversX DeCenter](https://github.com/users/xAllianceMvX/projects/1/views/1)
+* [x] Launch [xAlliance Website v1](https://app.gitbook.com/o/7BjiL95clGUhNB7jBJZ3/s/JghEvw1INN7UiHWPkZK1/)
+* [x] 4th Community Grant: [xCities](https://medium.com/@xAlliance/a-global-framework-for-blockchain-education-4f0f30706610)
+* [x] Created [activations & integrations for xDay Munich](https://www.linkedin.com/pulse/unserious-industry-lukas-seel-i0ebf/)
+* [x] Hosted MultiversX [Founders' Dinner in Munich](https://x.com/xAllianceDAO/status/1852265277628596610)
+* [x] Launched [Website v1.0](https://xalliance.io/)
+* [x] Sponsored [xLondon Hackathon](https://open.substack.com/pub/xalliance/p/building-builders-in-london?utm_campaign=post\&utm_medium=web)
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
