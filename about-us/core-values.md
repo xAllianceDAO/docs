@@ -6,4 +6,4 @@
 
 :bulb: **Innovation & Ingenuity:** We explore new ideas, methods, and approaches. We embrace the possibility of failure. If we fail, we'll fail a little better each time.
 
-:woman\_running: **Long-term thinking:** We don't focus on short-term results. We create today what will make a difference tomorrow.
+:person\_running: **Long-term thinking:** We don't focus on short-term results. We create today what will make a difference tomorrow.
