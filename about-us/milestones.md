@@ -35,6 +35,7 @@
 * [x] Launched [Website v1.0](https://xalliance.io/)
 * [x] Sponsored [xLondon Hackathon](https://open.substack.com/pub/xalliance/p/building-builders-in-london?utm_campaign=post\&utm_medium=web)
 * [x] Released [xAlliance AI Community Guide](https://open.substack.com/pub/xalliance/p/introducing-our-ai-community-guide?utm_campaign=post\&utm_medium=web)
+* [x] 5th Community Grant: [MultiversX Warps](https://xalliance.substack.com/p/veni-vidi-warpi)
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
