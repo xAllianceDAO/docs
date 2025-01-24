@@ -37,6 +37,7 @@
 * [x] Release [xAlliance AI Community Guide](https://open.substack.com/pub/xalliance/p/introducing-our-ai-community-guide?utm_campaign=post\&utm_medium=web)
 * [x] 5th Community Grant: [MultiversX Warps](https://xalliance.substack.com/p/veni-vidi-warpi)
 * [x] Publish [Our Year In Review](https://xalliance.substack.com/p/still-year-one)
+* [x] [Xplore MvX Meetup](https://x.com/xAllianceDAO/status/1882472212273500371) in Istanbul
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
