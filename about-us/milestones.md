@@ -27,8 +27,6 @@
 * [x] [Astrarizon Ventures](https://medium.com/@xAlliance/xalliance-partners-with-astrarizon-dd0597430b8d) Partnership
 * [x] Launch [Community Calendar](https://x.com/xAllianceDAO/status/1843231721208291820)
 * [x] Launch [xAlliance Creator Fund](https://medium.com/@xAlliance/introducing-the-xalliance-creator-fund-ed3f6fe0ab24)
-* [x] Launch [MultiversX DeCenter](https://github.com/users/xAllianceMvX/projects/1/views/1)
-* [x] Launch [xAlliance Website v1](https://app.gitbook.com/o/7BjiL95clGUhNB7jBJZ3/s/JghEvw1INN7UiHWPkZK1/)
 * [x] 4th Community Grant: [xCities](https://medium.com/@xAlliance/a-global-framework-for-blockchain-education-4f0f30706610)
 * [x] Create [activations & integrations for xDay Munich](https://www.linkedin.com/pulse/unserious-industry-lukas-seel-i0ebf/)
 * [x] Host MultiversX [Founders' Dinner in Munich](https://x.com/xAllianceDAO/status/1852265277628596610)
