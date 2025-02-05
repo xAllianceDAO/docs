@@ -38,8 +38,8 @@
 * [x] 5th Community Grant: [MultiversX Warps](https://xalliance.substack.com/p/veni-vidi-warpi)
 * [x] Publish [Our Year In Review](https://xalliance.substack.com/p/still-year-one)
 * [x] [Xplore MvX Meetup](https://x.com/xAllianceDAO/status/1882472212273500371) in Istanbul
-* [x] Launched blog.chain series
-* [ ] MvX Monthly Newsletter
+* [x] Launched [blog.chain](https://xalliance.substack.com/s/mvx-blogchain) series
+* [x] Launched [MvX Monthly](https://xalliance.substack.com/s/newsletter) Newsletter
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
