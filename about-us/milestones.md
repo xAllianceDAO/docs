@@ -38,6 +38,8 @@
 * [x] [Xplore MvX Meetup](https://x.com/xAllianceDAO/status/1882472212273500371) in Istanbul
 * [x] Launched [blog.chain](https://xalliance.substack.com/s/mvx-blogchain) series
 * [x] Launched [MvX Monthly](https://xalliance.substack.com/s/newsletter) Newsletter
+* [x] Track Sponsor for the [MultiversX AI Megawave Hackathon](https://x.com/xAllianceDAO/status/1889673528133198271)
+* [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
