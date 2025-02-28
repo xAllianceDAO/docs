@@ -39,6 +39,7 @@
 * [x] Launched [blog.chain](https://xalliance.substack.com/s/mvx-blogchain) series
 * [x] Launched [MvX Monthly](https://xalliance.substack.com/s/newsletter) Newsletter
 * [x] Track Sponsor for the [MultiversX AI Megawave Hackathon](https://x.com/xAllianceDAO/status/1889673528133198271)
+  * [x] xAlliance [Hacklinic](https://x.com/xAllianceDAO/status/1895505210396606580)
 * [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
