@@ -41,6 +41,7 @@
 * [x] Track Sponsor for the [MultiversX AI Megawave Hackathon](https://x.com/xAllianceDAO/status/1889673528133198271)
   * [x] xAlliance [Hacklinic](https://x.com/xAllianceDAO/status/1895505210396606580)
 * [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
+* [x] [MvX Meet & Connect](https://x.com/xAllianceDAO/status/1895776551079133650) in Lafia
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
