@@ -42,6 +42,7 @@
   * [x] xAlliance [Hacklinic](https://x.com/xAllianceDAO/status/1895505210396606580)
 * [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
 * [x] [MvX Meet & Connect](https://x.com/xAllianceDAO/status/1895776551079133650) in Lafia
+* [x] Launched [MultiversX Ambassador Program](https://xalliance.substack.com/p/by-the-builders-for-the-builders)
 * [ ] Relaunch xDev Hub
 * [ ] Introduce Contribution XP System (beta)
 * [ ] Innovate, Iterate, Repeat
