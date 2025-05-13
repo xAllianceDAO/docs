@@ -1,6 +1,6 @@
 # ✅ Milestones
 
-### Q2-Q3
+### Our Proof of Work
 
 * [x] Onboarded Genesis Cohort
 * [x] Launched [xAlliance](https://medium.com/@xAlliance/introducing-xalliance-2f8cafad3e02)
