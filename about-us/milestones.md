@@ -31,21 +31,22 @@
 * [x] Created [activations & integrations for xDay Munich](https://www.linkedin.com/pulse/unserious-industry-lukas-seel-i0ebf/)
 * [x] Hosted MultiversX [Founders' Dinner in Munich](https://x.com/xAllianceDAO/status/1852265277628596610)
 * [x] Launched xAlliance [Website v1.0](https://xalliance.io/)
-* [x] Sponsor [xLondon Hackathon](https://open.substack.com/pub/xalliance/p/building-builders-in-london?utm_campaign=post\&utm_medium=web)
+* [x] Sponsored [xLondon Hackathon](https://open.substack.com/pub/xalliance/p/building-builders-in-london?utm_campaign=post\&utm_medium=web)
 * [x] Released [xAlliance AI Community Guide](https://open.substack.com/pub/xalliance/p/introducing-our-ai-community-guide?utm_campaign=post\&utm_medium=web)
 * [x] 5th Community Grant: [MultiversX Warps](https://xalliance.substack.com/p/veni-vidi-warpi)
 * [x] Published [Our Year In Review](https://xalliance.substack.com/p/still-year-one)
 * [x] [Xplore MvX Meetup](https://x.com/xAllianceDAO/status/1882472212273500371) in Istanbul
 * [x] Launched [blog.chain](https://xalliance.substack.com/s/mvx-blogchain) series
 * [x] Launched [MvX Monthly](https://xalliance.substack.com/s/newsletter) Newsletter
-* [x] Track Sponsor for the [MultiversX AI Megawave Hackathon](https://x.com/xAllianceDAO/status/1889673528133198271)
-  * [x] xAlliance [Hacklinic](https://x.com/xAllianceDAO/status/1895505210396606580)
+* [x] Sponsored [MultiversX AI Megawave Hackathon](https://x.com/xAllianceDAO/status/1889673528133198271)
+  * [x] Hosted xAlliance [Hacklinic](https://x.com/xAllianceDAO/status/1895505210396606580)
 * [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
 * [x] [MvX Meet & Connect](https://x.com/xAllianceDAO/status/1895776551079133650) in Lafia
 * [x] Launched [MultiversX Ambassador Program](https://xalliance.substack.com/p/by-the-builders-for-the-builders)
 * [x] Hosted [Istanbul Crosschains Happy Hour](https://x.com/xAllianceDAO/status/1920509060673147385)
 * [x] Launched [xAlliance Member Map](https://map.xalliance.io/)
 * [ ] Relaunched xDev Hub
+* [ ] 6th Community Grant: ⚡️
 * [ ] Launched xAlliance Ecosystem Map
 * [ ] Launched Contribution XP System
 * [ ] Innovate, Iterate, Repeat
