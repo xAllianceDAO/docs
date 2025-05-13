@@ -43,6 +43,7 @@
 * [x] 6th Community Grant: [Octools](https://xalliance.substack.com/p/releasing-the-kraken)
 * [x] [MvX Meet & Connect](https://x.com/xAllianceDAO/status/1895776551079133650) in Lafia
 * [x] Launched [MultiversX Ambassador Program](https://xalliance.substack.com/p/by-the-builders-for-the-builders)
+* [x] Hosted [Istanbul Crosschains Happy Hour](https://x.com/xAllianceDAO/status/1920509060673147385)
 * [x] Launched [xAlliance Member Map](https://map.xalliance.io/)
 * [ ] Relaunched xDev Hub
 * [ ] Launched xAlliance Ecosystem Map
