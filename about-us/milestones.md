@@ -45,9 +45,9 @@
 * [x] Launched [MultiversX Ambassador Program](https://xalliance.substack.com/p/by-the-builders-for-the-builders)
 * [x] Hosted [Istanbul Crosschains Happy Hour](https://x.com/xAllianceDAO/status/1920509060673147385)
 * [x] Launched [xAlliance Member Map](https://map.xalliance.io/)
+* [x] Launched [xAlliance Ecosystem Map](https://eco.xalliance.io/)
+* [x] Relaunched [xDev Hub](https://xalliance.substack.com/p/the-better-building-tool)
+* [x] 6th Community Grant: [Kepler API](https://xalliance.substack.com/p/an-apimportant-upgrade)
 * [ ] Release xAlliance Raffle dApp
-* [ ] Relaunch xDev Hub
-* [ ] 6th Community Grant: ⚡️
-* [ ] Launche xAlliance Ecosystem Map
-* [ ] Launche Contribution XP System
+* [ ] Launched Contribution XP System
 * [ ] Innovate, Iterate, Repeat
