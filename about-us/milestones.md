@@ -47,7 +47,8 @@
 * [x] Launched [xAlliance Member Map](https://map.xalliance.io/)
 * [x] Launched [xAlliance Ecosystem Map](https://eco.xalliance.io/)
 * [x] Relaunched [xDev Hub](https://xalliance.substack.com/p/the-better-building-tool)
-* [x] 6th Community Grant: [Kepler API](https://xalliance.substack.com/p/an-apimportant-upgrade)
-* [ ] Release xAlliance Raffle dApp
-* [ ] Launched Contribution XP System
+* [x] 7th Community Grant: [Kepler API](https://xalliance.substack.com/p/an-apimportant-upgrade)
+* [x] Release [xAlliance Raffle dApp](https://events.xalliance.io/)
+* [x] Elected xAlliance Council
+* [x] Launched Contribution XP System
 * [ ] Innovate, Iterate, Repeat
