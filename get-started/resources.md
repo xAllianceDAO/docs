@@ -6,12 +6,14 @@
 
 [Developer Resources](https://multiversx.com/builders-hub)
 
+[xDev Hub](https://xdevhub.com/)
+
 [MultiversX Website](https://multiversx.com/)
 
 [xAlliance Blog](https://medium.com/@xAlliance)
 
 [Action Framework](https://medium.com/@xAlliance/a-framework-for-action-58a96df36210)
 
-Telegram (soon)
+[Quests](https://peerme.io/xalliance/quests)
 
-Bounty & Grant Portals (soon)
+[Grants](https://grants.xalliance.io/)
