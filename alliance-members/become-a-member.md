@@ -6,7 +6,7 @@ Become an advocate for MultiversX, grow the ecosystem, win quests, receive for a
 
 _Membership invitations may be extended to ecosystem-aligned contributors such as:_
 
-1. Hackathon winners
-2. Ecosystem grant recipients
-3. xAlliance Quest winners
+1. Hackathon Winners
+2. Ecosystem Grant Recipients
+3. xAlliance Quest Winners
 4. Individuals with remarkable achievements benefitting MultiversX
